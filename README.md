@@ -29,8 +29,6 @@ And also you can find some useful resources on how to use emojis and etc.
 * [Definition List](Basics/Overview.md)
 * [Strike through](Emoji/Object.md) -->
 
-<br/>
-
 ## Emoji
 
 Folder | Contents | Documentation
